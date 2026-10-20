@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.db
+logs/
+reports/
+
+# This project folder currently also contains its virtual environment.
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+.venv/
+venv/

@@ -1,0 +1,6 @@
+2026-10-19 09:12:30 INFO api: Server started
+2026-10-19T09:13:02Z [WARNING] database - Connection pool is nearly full
+2026-10-19 09:13:15 ERROR auth: Invalid login token
+2026-10-19 09:13:26 ERROR auth: Invalid login token
+2026-10-19 09:14:01 ERROR payments: Payment provider timed out
+This line does not match the supported log format
